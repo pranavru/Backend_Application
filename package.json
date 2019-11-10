@@ -1,0 +1,33 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavru/Backend_Application.git"
+  },
+  "author": "Pranav Ruparelia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavru/Backend_Application/issues"
+  },
+  "homepage": "https://github.com/pranavru/Backend_Application#readme",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "config": "^3.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "joi": "^14.1.1",
+    "jsonwebtoken": "^8.4.0",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.3.13",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.6"
+  }
+}
